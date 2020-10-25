@@ -1,0 +1,176 @@
+Node1,Node2
+Admiralty,Sembawang
+Admiralty,Woodlands
+Sembawang,Yishun
+Woodlands,Marsiling
+Ang Mo Kio,Yio Chu Kang
+Ang Mo Kio,Bishan CCL
+Yio Chu Kang,Khatib
+Bangkit,Fajar
+Bangkit,Pending
+Fajar,Segar
+Pending,Petir
+Bartley,Serangoon CCL
+Bartley,Tai Seng
+Serangoon CCL,Lorong Chuan
+Serangoon CCL,Serangoon NEL
+Bayfront CCL,Downtown
+Downtown,Telok Ayer
+Beauty World,Hillview
+Beauty World,King Albert Park
+Hillview,Cashew
+King Albert Park,Sixth Avenue
+Bedok,Kembangan
+Bedok,Tanah Merah
+Kembangan,Eunos
+Bishan NSEW,Braddell
+Bishan NSEW,Bishan CCL
+Bishan NSEW,Marymount
+Braddell,Farmway
+Braddell,Toa Payoh
+Boon Keng,Farrer Park
+Boon Keng,Potong Pasir
+Farrer Park,Little India NEL
+Boon Lay,Lakeside
+Boon Lay,Pioneer
+Lakeside,Chinese Garden
+Pioneer,Joo Koon
+Botanic Gardens CCL,Botanic Gardens DTL
+Botanic Gardens CCL,Farrer Road
+Botanic Gardens DTL,Sixth Avenue
+Farrer Road,Holland Village
+Bras Basah,Esplanade
+Esplanade,Dhoby Ghaut NEL
+Esplanade,Nicoll Highway
+Buangkok,Hougang
+Buangkok,Sengkang
+Hougang,Kovan
+Sengkang,Cheng Lim
+Sengkang,Compassvale
+Sengkang,Punggol
+Bugis DTL,Bayfront DTL
+Bugis DTL,Bugis NSEW
+Bugis DTL,Little India DTL
+Rochor,Little India DTL
+Rochor,Paya Lebar NSEW
+Bugis NSEW,Lavender
+Bugis NSEW,City Hall
+Lavender,Kallang
+Bukit Batok,Bukit Gombak
+Bukit Batok,Jurong East
+Bukit Gombak,Choa Chu Kang
+Jurong East,Chinese Garden
+Jurong East,Clementi
+Bukit Panjang BPLRT,Phoenix
+Bukit Panjang BPLRT,Petir
+Phoenix,Keat Hong
+Phoenix,Senja
+Phoenix,Teck Whye
+Bukit Panjang DTL,Cashew
+Buona Vista CCL,Holland Village
+Buona Vista CCL,one-north
+Holland Village,Buona Vista NSEW
+one-north,Kent Ridge
+one-north,Haw Par Villa
+Buona Vista NSEW,Dover
+Buona Vista NSEW,Commonwealth
+Dover,Choa Chu Kang BPLRT
+Dover,Clementi
+Caldecott,Marymount
+Caldecott,Bishan CCL
+Changi Airport,Expo NSEW
+Expo NSEW,Tanah Merah
+Chinatown NEL,Clarke Quay
+Chinatown NEL,Telok Ayer
+Chinatown NEL,Outram Park NEL
+Clarke Quay,Dhoby Ghaut NEL
+Telok Ayer,Chinatown DTL
+Choa Chu Kang BPLRT,South View
+Keat Hong,South View
+Choa Chu Kang,South View
+Choa Chu Kang,Yew Tee
+South View,Teck Whye
+Yew Tee,Kranji
+City Hall,Dhoby Ghaut NSEW
+Dhoby Ghaut NSEW,Somerset
+Dhoby Ghaut NSEW,Marina South Pier
+Commonwealth,Queenstown
+Queenstown,Redhill
+Compassvale,Rumbia
+Rumbia,Bakau
+Coral Edge,Meridian
+Coral Edge,Riviera
+Meridian,Cove
+Riviera,Oasis
+Dakota,Mountbatten
+Dakota,Paya Lebar CCL
+Mountbatten,Stadium
+Damai,Oasis
+Damai,Punggol
+Oasis,Kadaloor
+Somerset,Orchard
+Somerset,Dhoby Ghaut NEL
+Eunos,Paya Lebar NSEW
+Farmway,Kupang
+Farmway,Cheng Lim
+Kupang,Fernvale
+Little India NEL,Dhoby Ghaut NEL
+Little India NEL,Little India DTL
+Fernvale,Layar
+HarbourFront CCL,Telok Blangah
+HarbourFront CCL,HarbourFront NEL
+Telok Blangah,Labrador Park
+Haw Par Villa,Pasir Panjang
+Pasir Panjang,Labrador Park
+Kovan,Serangoon NEL
+Jelapang,Segar
+Jelapang,Senja
+Joo Koon,Marina South Pier
+Kallang,Aljunied
+Kangkar,Ranggung
+Kangkar,Bakau
+Ranggung,Thanggam
+Khatib,Yishun
+Sixth Avenue,Tan Kah Kee
+Kranji,Marsiling
+Lorong Chuan,Bishan CCL
+MacPherson CCL,Paya Lebar CCL
+MacPherson CCL,Tai Seng
+Paya Lebar CCL,Paya Lebar NSEW
+Newton DTL,Stevens
+Newton DTL,Little India DTL
+Stevens,Tan Kah Kee
+Newton NSEW,Novena
+Newton NSEW,Orchard
+Novena,Toa Payoh
+Nicoll Highway,Promenade
+Nicoll Highway,Stadium
+Nicoll Highway,Marina Bay CCL
+Promenade,Bayfront DTL
+Outram Park NSEW,Tanjong Pagar
+Outram Park NSEW,Outram Park NEL
+Outram Park NSEW,Tiong Bahru
+Tanjong Pagar,Raffles Place
+Tanjong Pagar,Marina Bay CCL
+Pasir Ris,Tampines NSEW
+Pasir Ris,Punggol
+Tampines NSEW,Simei
+Paya Lebar NSEW,Aljunied
+Petir,Raffles Place
+Potong Pasir,Woodleigh
+Woodleigh,Serangoon NEL
+Redhill,Tiong Bahru
+Tiong Bahru,Chinatown DTL
+Simei,Tanah Merah
+Thanggam,Tongkang
+Thanggam,Cheng Lim
+Tongkang,Layar
+Tongkang,Renjong
+Bayfront DTL,Marina Bay
+Marina Bay,Marina Bay CCL
+Tanah Merah,Little India DTL
+Outram Park NEL,HarbourFront NEL
+Punggol,Nibong
+Punggol,Sam Kee
+Punggol,Sumang
+Nibong,Soo Teck
