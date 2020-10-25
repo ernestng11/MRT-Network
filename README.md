@@ -13,6 +13,7 @@
 
 ### Assumptions
 1. Given a train line (m - x - y - z), time taken to travel from x to m will be shorter than that from x to z for all given origin stations.
+2. Taking the mean/median and finding the 2 shortest path relative to the origin, will give us the adjacent stations to the origin.
 
 ### Solution
   - Treat each station on different lines as different stations. Eg treat Bugis DTL and Bugis NSEW as different stations. Then connect with a dotted line to indicate that these stations are together
