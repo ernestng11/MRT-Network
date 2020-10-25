@@ -33,7 +33,3 @@ Removed 2031 self-loops from dataset
 9. Add the paths in edge_list
 10. Plot graph with NetworkX
 
-Edits:
-2. Remove station codes attached to station names if any. Eg Cleaning *Bugis DTL* into *Bugis*
-3. Check for any duplicated rows and remove them - same destination, origin, destination_tm, origin_tm
-5. Group all rows where origin and destination are the same -  Eg. Create new column where value = "Node i, Node j" for trips from i to j and j to i.
